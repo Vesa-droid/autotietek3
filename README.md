@@ -15,4 +15,4 @@ Viikko.2
 -Kamera ja sen liittäminen
 
 Viikko.3
--???
+- lisää testailuu
